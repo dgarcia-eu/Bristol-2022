@@ -644,15 +644,10 @@ layout: true
 
 ---
 
-
 # Thanks for listening!
 
 ```{r, echo=FALSE, out.width=750, fig.align='center'}
-knitr::include_graphics("figures/Logo_CSS.png")
+knitr::include_graphics("figures/banner.png")
 ```
 
-New English-speaking masters programme at Uni Graz and TU Graz
-
-**More at: [www.dgarcia.eu](https://dgarcia.eu) and [@dgarcia_eu](https://twitter.com/dgarcia_eu)**
-
-Slides:  [www.dgarcia.eu/Bristol-2022](http://www.dgarcia.eu/Bristol-2022)
+**More at: [dgarcia.eu](https://dgarcia.eu) and [@dgarcia_eu,](https://twitter.com/dgarcia_eu)** slides at:  [dgarcia.eu/Bristol-2022](http://www.dgarcia.eu/Bristol-2022)
